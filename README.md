@@ -1,2 +1,5 @@
 # hello-world1
-Created an acccount on GitHub
+Hi Everyone!
+
+Myself Harshada.P from Gogte Institute of technology
+ Computer science department(Belgaum).
